@@ -57,4 +57,3 @@ training:
   epochs: 100
   batch_size: 256
   optimizer: adam
-  learning_rate: 0.01
