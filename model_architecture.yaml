@@ -41,7 +41,7 @@ input_schema:
   features:
     - name: age
       type: integer
-    - name: annual_income
+    - name: annual_income_test
       type: float
     - name: employment_years
       type: float
